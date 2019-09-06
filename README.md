@@ -9,3 +9,5 @@
 ## [Add ufw rules; active ufw; watch bots getting blocked](https://github.com/dlcmh/lnl20190906/issues/4)
 
 ## [Install PostgreSQL](https://github.com/dlcmh/lnl20190906/issues/5)
+
+## [Install Ruby](https://github.com/dlcmh/lnl20190906/issues/6)
