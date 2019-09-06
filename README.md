@@ -11,3 +11,5 @@
 ## [Install PostgreSQL](https://github.com/dlcmh/lnl20190906/issues/5)
 
 ## [Install Ruby](https://github.com/dlcmh/lnl20190906/issues/6)
+
+## [Install Node, yarn](https://github.com/dlcmh/lnl20190906/issues/7)
