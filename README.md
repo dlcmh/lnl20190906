@@ -7,3 +7,5 @@
 ## [Install nginx; remove /etc/nginx/sites-enabled/default](https://github.com/dlcmh/lnl20190906/issues/3)
 
 ## [Add ufw rules; active ufw; watch bots getting blocked](https://github.com/dlcmh/lnl20190906/issues/4)
+
+## [Install PostgreSQL](https://github.com/dlcmh/lnl20190906/issues/5)
