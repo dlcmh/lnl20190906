@@ -81,5 +81,5 @@ test:
 production:
   <<: *default
   database: lnl20190906_production
-  username: lnl20190906
+  # username: lnl20190906
   password: <%= ENV['LNL20190906_DATABASE_PASSWORD'] %>
