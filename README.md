@@ -13,3 +13,5 @@
 ## [Install Ruby](https://github.com/dlcmh/lnl20190906/issues/6)
 
 ## [Install Node, yarn](https://github.com/dlcmh/lnl20190906/issues/7)
+
+## [Obtain CloudFlare SSL/TLS, save to files on server](https://github.com/dlcmh/lnl20190906/issues/8)
